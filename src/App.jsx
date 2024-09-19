@@ -8,6 +8,8 @@ import Testimonials from "./components/Testimonials";
 import Hireme from "./components/Hireme";
 import Contact from "./components/Contact";
 import { useEffect } from "react";
+import Favicon from 'react-favicon';
+
 // Animation package
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -19,8 +21,9 @@ const App = () => {
       offset: 100,
     });
   }, []);
+
   return (
-    <div className="">
+    <div className="app">
       <Navbar />
       <Hero />
       <Skills />
