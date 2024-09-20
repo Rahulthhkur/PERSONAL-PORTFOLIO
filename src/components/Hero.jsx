@@ -23,7 +23,7 @@ const Hero = () => {
           <h2>{hero.title}</h2>
           <br />
           <div className="flex justify-end">
-          <a href="src/assets/Rahul Singh CV.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1WI-Jdh2CWVYNcfAELpaByKtQPE12D-kF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <button className="btn">{hero.btnText}</button>
             </a>
           </div>
