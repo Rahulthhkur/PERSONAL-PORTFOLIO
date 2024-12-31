@@ -156,7 +156,7 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "ReaL Estate Pro q",
+        title: "ReaL Estate Pro",
         image: project1,
         link: "http://real-estate-pro-m4wj.onrender.com/",
       },
