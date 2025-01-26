@@ -1,5 +1,3 @@
----
-
 # 🌐 Rahul Singh - Personal Portfolio  
 
 Welcome to my portfolio repository! 🚀 Here, I showcase my expertise as a **Full-Stack Developer**, passion for **web technologies**, and my journey of continuous learning in the world of development.  
