@@ -1,5 +1,3 @@
-Here’s a more advanced and professional README for your personal portfolio:
-
 ---
 
 # 🌐 Rahul Singh - Personal Portfolio  
