@@ -78,4 +78,4 @@ As a **Full-Stack Developer**, my goal is to leverage modern web technologies to
 The portfolio is live at [www.rahulsingh.tech](https://www.rahulsingh.tech).  
 Built with **Next.js**, hosted on **Vercel**, and optimized for **SEO and performance**.
 
----
+-----
