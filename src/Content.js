@@ -24,7 +24,7 @@ import project2 from "./assets/images/Projects/img2.png";
 import project3 from "./assets/images/Projects/img3.png";
 import project4 from "./assets/images/Projects/img4.png";
 import project5 from "./assets/images/Projects/img5.png";
-
+import project6 from "./assets/images/Projects/img6.jpeg";
 import person_project from "./assets/images/Projects/person.png";
 
 
@@ -158,9 +158,20 @@ export const content = {
     image: person_project,
     project_content: [
       {
+        title: "NeuroVoyage AI",
+        image: project6,
+        link: "https://neurovoyage.vercel.app/",
+      },
+      {
         title: "ReaL Estate Pro",
         image: project1,
         link: "http://real-estate-pro-m4wj.onrender.com/",
+      },
+      {
+        title: "GetSUB Ecom",
+        image: project5,
+        link: "https://www.getsub.site/",
+        
       },
       {
         title: "School Website",
@@ -177,13 +188,7 @@ export const content = {
         image: project4,
         link: "https://esignature-board.vercel.app/",
         
-      },
-      {
-        title: "GetSUB Ecom",
-        image: project5,
-        link: "https://github.com/Rahulthhkur/getsub",
-        
-      },
+      }
     ],
   },
   Testimonials: {
